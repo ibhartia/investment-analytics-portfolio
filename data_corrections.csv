@@ -1,9 +1,0 @@
-ticker,original_quarter,original_date,corrected_quarter,corrected_date,reason
-AAPL,Q4 FY2024,08/31/2024,Q4 FY2024,10/31/2024,Call date mis-keyed; Apple reported FQ4-24 on 31 Oct 2024
-AAPL,Q3 FY2025,06/31/2025,Q3 FY2025,07/31/2025,Invalid date (June has 30 days); Apple reported FQ3-25 on 31 Jul 2025
-AAPL,Q4 FY2025,08/30/2025,Q4 FY2025,10/30/2025,Call date mis-keyed; Apple reported FQ4-25 on 30 Oct 2025
-GOOG,Q3 FY2025,08/29/2025,Q3 FY2025,10/29/2025,Call date mis-keyed; Alphabet reported Q3-25 on 29 Oct 2025
-UNH,Q2 FY2025,06/29/2025,Q2 FY2025,07/29/2025,Date precedes quarter end; UNH reported Q2-25 on 29 Jul 2025
-UNH,Q3 FY2025,08/28/2025,Q3 FY2025,10/28/2025,Call date mis-keyed; UNH reported Q3-25 on 28 Oct 2025
-WMT,Q2 FY2024,08/15/2024,Q2 FY2025,08/15/2024,"Fiscal label: Walmart's FY ends Jan, so an Aug-2024 call is Q2 FY2025"
-WMT,Q3 FY2024,11/19/2024,Q3 FY2025,11/19/2024,Fiscal label: a Nov-2024 call is Q3 FY2025
