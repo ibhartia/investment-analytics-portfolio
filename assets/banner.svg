@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Investment Analytics Portfolio: Ishaan Bhartia, MS in Finance, Chicago Booth">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#800000"/>
+      <stop offset="1" stop-color="#4a0000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <g stroke="#ffffff" stroke-opacity="0.07" stroke-width="1">
+    <path d="M760 320 L1280 40"/><path d="M840 320 L1280 90"/><path d="M920 320 L1280 140"/><path d="M1000 320 L1280 190"/><path d="M1080 320 L1280 240"/>
+  </g>
+  <rect x="64" y="58" width="56" height="4" fill="#d6b56b"/>
+  <text x="64" y="112" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700">Investment Analytics Portfolio</text>
+  <text x="64" y="150" fill="#f3e6e6" font-family="Helvetica, Arial, sans-serif" font-size="20">Ishaan Bhartia  |  MS in Finance, The University of Chicago Booth School of Business  |  Dec 2026</text>
+  <g font-family="Helvetica, Arial, sans-serif">
+    <rect x="64" y="196" width="340" height="76" rx="10" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.25"/>
+    <text x="84" y="228" fill="#d6b56b" font-size="24" font-weight="700">29.9% vs 18.0% SPY</text>
+    <text x="84" y="256" fill="#f3e6e6" font-size="15">Sentiment strategy backtest (team)</text>
+    <rect x="424" y="196" width="340" height="76" rx="10" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.25"/>
+    <text x="444" y="228" fill="#d6b56b" font-size="24" font-weight="700">42-company VC book</text>
+    <text x="444" y="256" fill="#f3e6e6" font-size="15">Comps-driven exit valuation framework</text>
+    <rect x="784" y="196" width="340" height="76" rx="10" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.25"/>
+    <text x="804" y="228" fill="#d6b56b" font-size="24" font-weight="700">Excel = Python</text>
+    <text x="804" y="256" fill="#f3e6e6" font-size="15">Every number reconciled by automated tests</text>
+  </g>
+</svg>
