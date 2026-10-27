@@ -15,7 +15,7 @@ Two investment problems, each taken from a judgment call to a model that a revie
 
 - **Earnings call sentiment.** I turned earnings call transcripts into comparable, rubric-anchored scores across six dimensions, and built the scorecard that tracks how management and analyst tone shift quarter to quarter. In a Chicago Booth competition, our team's sentiment-ranked portfolio returned **29.94% against 18.01% for SPY** (Sharpe 1.77).
 - **Venture exit valuation.** At Cedars-Sinai Technology Ventures I replaced a hardcoded exit multiple with a **comparables-driven, probability-weighted** exit value for a 42-company venture portfolio, adding ownership-adjusted MOIC, PV and follow-on reserves. It is shown here on synthetic data.
-- **Controls.** Both workbooks are formula-driven, a Python implementation reproduces them to the cent, and 11 automated tests fail if anything drifts.
+- **Controls.** Both workbooks are formula-driven and 11 automated tests fail if anything drifts.
 
 ## Featured work
 
