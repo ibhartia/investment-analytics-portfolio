@@ -2,7 +2,7 @@
 
 A structured, repeatable way to turn earnings call transcripts into comparable sentiment scores, and a scorecard that tracks how management and analyst tone moves quarter to quarter.
 
-I built the scoring engine: a Claude-based analyzer with an explicit rubric, a weighted composite, and an Excel scorecard that keeps every call auditable. This folder contains the analyzer, the scored dataset, a Python pipeline that rebuilds and validates the scorecard, and the workbook.
+I built a scoring engine: a Claude-based analyzer with an explicit rubric, a weighted composite, and an Excel scorecard that keeps every call auditable. This folder contains the analyzer, the scored dataset, a Python pipeline that rebuilds and validates the scorecard, and the workbook.
 
 ## How it works
 
