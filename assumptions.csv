@@ -1,0 +1,5 @@
+parameter,value,note
+current_year,2026,Valuation date
+discount_rate,0.15,Discount rate for PV of risk-adjusted exit value
+private_stepup,2.5,Default multiple to grow a private peer valuation to an exit value (overridable per company)
+legacy_exit_multiple,3.0,Illustrative hardcoded multiple of the legacy method (exit = current valuation x multiple)

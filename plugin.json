@@ -1,0 +1,9 @@
+{
+  "name": "earnings-sentiment-analyzer",
+  "version": "0.1.0",
+  "description": "Analyze earnings call transcripts for investor sentiment with quantified scores across key dimensions",
+  "author": {
+    "name": "Ishaan Bhartia"
+  },
+  "keywords": ["earnings", "sentiment", "investor", "analysis", "finance"]
+}

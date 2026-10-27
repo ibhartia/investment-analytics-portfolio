@@ -1,0 +1,43 @@
+company,code,sector,stage,current_val,ownership,p_override,stepup_override,exit_year_override,invested,notes
+Company 01,PC-01,Bio tech,S2,15790000.0,0.0732,,,,612000.0,Synthetic company. Stage S2.
+Company 02,PC-02,Bio tech,D,0.0,0.0426,,,,178000.0,"Synthetic company. Stage D. Written down; no comps, stage default P(exit) applies to a nil value."
+Company 03,PC-03,Health Tech,S4,55490000.0,0.0779,,,,3753000.0,Synthetic company. Stage S4.
+Company 04,PC-04,Health Tech,S7,21310000.0,0.1025,,,,906000.0,Synthetic company. Stage S7.
+Company 05,PC-05,Bio tech,S7,36460000.0,0.0698,,1.0,,1337000.0,Synthetic company. Stage S7. Private step-up set to 1.0x: peers already at exit-scale valuations.
+Company 06,PC-06,Health Tech,S2,59680000.0,0.0315,,,,1648000.0,Synthetic company. Stage S2.
+Company 07,PC-07,Med tech,S4,38110000.0,0.1034,,,,3051000.0,Synthetic company. Stage S4.
+Company 08,PC-08,Bio tech,S7,17410000.0,0.0277,0.39,,,267000.0,Synthetic company. Stage S7. P(exit) overridden to 39% (exit-predictor style input).
+Company 09,PC-09,Health Tech,S4,42870000.0,0.0497,,,,1772000.0,Synthetic company. Stage S4.
+Company 10,PC-10,Health Tech,S2,16920000.0,0.0424,0.29,,,610000.0,Synthetic company. Stage S2. P(exit) overridden to 29% (exit-predictor style input).
+Company 11,PC-11,Bio tech,S7,74430000.0,0.0555,0.29,,,3144000.0,Synthetic company. Stage S7. P(exit) overridden to 29% (exit-predictor style input).
+Company 12,PC-12,Bio tech,S4,51790000.0,0.0819,,,,1874000.0,Synthetic company. Stage S4.
+Company 13,PC-13,Health Tech,S2,27080000.0,0.0609,,,,1156000.0,Synthetic company. Stage S2.
+Company 14,PC-14,Med tech,S7,17580000.0,0.0276,,,,171000.0,Synthetic company. Stage S7.
+Company 15,PC-15,Bio tech,S7,23310000.0,0.0783,0.53,,,971000.0,Synthetic company. Stage S7. P(exit) overridden to 53% (exit-predictor style input).
+Company 16,PC-16,Bio tech,S7,17000000.0,0.0379,0.38,1.0,,539000.0,Synthetic company. Stage S7. P(exit) overridden to 38% (exit-predictor style input). Private step-up set to 1.0x: peers already at exit-scale valuations.
+Company 17,PC-17,Med tech,S1,6480000.0,0.0748,0.58,,,251000.0,Synthetic company. Stage S1. P(exit) overridden to 58% (exit-predictor style input).
+Company 18,PC-18,Bio tech,S7,58820000.0,0.0509,,1.0,,2443000.0,Synthetic company. Stage S7. Private step-up set to 1.0x: peers already at exit-scale valuations.
+Company 19,PC-19,Med tech,S7,133030000.0,0.0847,0.9,1.0,,7594000.0,Synthetic company. Stage S7. P(exit) overridden to 90% (exit-predictor style input). Private step-up set to 1.0x: peers already at exit-scale valuations.
+Company 20,PC-20,Med tech,S5,27970000.0,0.1146,,,,2327000.0,Synthetic company. Stage S5.
+Company 21,PC-21,Health Tech,S3,20270000.0,0.083,,,,708000.0,Synthetic company. Stage S3.
+Company 22,PC-22,Bio tech,S7,18850000.0,0.0876,,,,650000.0,Synthetic company. Stage S7.
+Company 23,PC-23,Bio tech,S4,53550000.0,0.1322,,,,2857000.0,Synthetic company. Stage S4.
+Company 24,PC-24,Med tech,S4,32410000.0,0.0833,0.67,,,2212000.0,Synthetic company. Stage S4. P(exit) overridden to 67% (exit-predictor style input).
+Company 25,PC-25,Med tech,S4,84430000.0,0.131,,,,5208000.0,Synthetic company. Stage S4.
+Company 26,PC-26,Med tech,S4,58020000.0,0.0864,0.69,,2034.0,4200000.0,Synthetic company. Stage S4. P(exit) overridden to 69% (exit-predictor style input). Exit year overridden to 2034 (long regulatory path).
+Company 27,PC-27,Med tech,S4,43730000.0,0.0309,,,,902000.0,Synthetic company. Stage S4.
+Company 28,PC-28,Bio tech,S7,21340000.0,0.0371,,,,443000.0,Synthetic company. Stage S7.
+Company 29,PC-29,Med tech,S4,37900000.0,0.1625,0.38,,,4464000.0,Synthetic company. Stage S4. P(exit) overridden to 38% (exit-predictor style input).
+Company 30,PC-30,Bio tech,S7,13430000.0,0.0711,,,,417000.0,Synthetic company. Stage S7.
+Company 31,PC-31,Bio tech,S6,82520000.0,0.1037,,,,6749000.0,Synthetic company. Stage S6.
+Company 32,PC-32,Bio tech,S7,37020000.0,0.0321,,1.0,,1063000.0,Synthetic company. Stage S7. Private step-up set to 1.0x: peers already at exit-scale valuations.
+Company 33,PC-33,Bio tech,X,900000000.0,0.035,,,,7553000.0,"Synthetic company. Stage X. Realized exit: value is the actual deal, P(exit) = 100%."
+Company 34,PC-34,Med tech,S2,21170000.0,0.1196,0.76,,,2051000.0,Synthetic company. Stage S2. P(exit) overridden to 76% (exit-predictor style input).
+Company 35,PC-35,Health Tech,S2,20760000.0,0.0191,,,,168000.0,Synthetic company. Stage S2.
+Company 36,PC-36,Med tech,S7,37020000.0,0.0255,,,,693000.0,Synthetic company. Stage S7.
+Company 37,PC-37,Bio tech,S7,35690000.0,0.0365,,,,745000.0,Synthetic company. Stage S7.
+Company 38,PC-38,Med tech,S7,20330000.0,0.0685,0.37,,,1058000.0,Synthetic company. Stage S7. P(exit) overridden to 37% (exit-predictor style input).
+Company 39,PC-39,Med tech,S7,46330000.0,0.0534,,,,1527000.0,Synthetic company. Stage S7.
+Company 40,PC-40,Health Tech,S3,20020000.0,0.0588,,,,658000.0,Synthetic company. Stage S3.
+Company 41,PC-41,Health Tech,S2,11590000.0,0.0375,,,,362000.0,Synthetic company. Stage S2.
+Company 42,PC-42,Bio tech,S2,21300000.0,0.055,0.5,,,670000.0,Synthetic company. Stage S2. P(exit) overridden to 50% (exit-predictor style input).

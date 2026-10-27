@@ -1,0 +1,7 @@
+dimension,label,description,weight
+mgmt_tone,Mgmt Tone,"Confidence, ownership, and energy of management delivery.",0.2
+fwd_guidance,Fwd Guidance,"Strength, specificity, and direction of forward-looking statements.",0.25
+risk_language,Risk Language,"Frequency and severity of hedging, uncertainty, and risk vocabulary.",0.15
+analyst_sentiment,Analyst Sent.,Tone of analyst questions — supportive vs. skeptical vs. adversarial.,0.2
+fin_health,Fin. Health,"Language around revenue, margins, cash flow, and balance sheet.",0.1
+strat_clarity,Strat. Clarity,"Coherence, specificity, and consistency of the strategic narrative.",0.1
