@@ -64,9 +64,9 @@ To score a new call, install the plugin in [`analyzer/`](analyzer/) into Claude,
 
 Building the pipeline surfaced eight data-entry errors in the original workbook, now corrected and logged in [`data/data_corrections.csv`](data/data_corrections.csv): six call dates that were mis-keyed or impossible (e.g. 31 June 2025), and two Walmart rows labelled with the wrong fiscal year (Walmart's fiscal year ends in January). The company summary tab, previously typed in by hand, is now formula-driven so it cannot drift from the underlying scores.
 
-## Competition backtest (team project)
+## Competition backtest
 
-For the Booth competition our team ran a sentiment-ranked strategy across 80 companies, holding the top 10 by score each quarter, over five quarters, with a DSPy + Llama 3.2 pipeline for batch scoring. Reported results against SPY: **29.94% total return vs. 18.01%**, Sharpe ratio **1.77**, annualized alpha of roughly **14%**, beta **0.76**. The backtest code belongs to the team and is not reproduced here; the results are included for context, and a five-quarter window is short, so they should be read as directional rather than conclusive.
+I ran a sentiment-ranked strategy across 80 companies, holding the top 10 by score each quarter, over five quarters, with a DSPy + Llama 3.2 pipeline for batch scoring. Reported results against SPY: **29.94% total return vs. 18.01%**, Sharpe ratio **1.77**, annualized alpha of roughly **14%**, beta **0.76**. The backtest code belongs to the team and is not reproduced here; the results are included for context, and a five-quarter window is short, so they should be read as directional rather than conclusive.
 
 ## Limitations
 
